@@ -12,3 +12,4 @@ Clean the Data by removing all the time stamps and make it a single document
 Run the NLP text summarization algorithm on the given document
 Develop a GUI to link the process
 Finally save this summary or insight as Pdf
+
