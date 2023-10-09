@@ -1,10 +1,10 @@
-youtube_dl
-NLTK
+fastapi==0.68.0
+youtube-dl==2021.6.6
+SpeechRecognition==3.8.1
+gensim==4.1.0
+nltk==3.6.2
 Pycharm
-Fastapi
 HTML
 Canvas
-Speech_Recognition
 Pydantic
-Gensim
 Summarizer
