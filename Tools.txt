@@ -1,0 +1,10 @@
+youtube_dl
+NLTK
+Pycharm
+Fastapi
+HTML
+Canvas
+Speech_Recognition
+Pydantic
+Gensim
+Summarizer
